@@ -21,5 +21,9 @@ A Streamlit web application that combines machine learning classification with a
 1. Clone or download this repository
 2. Install the required packages:
    ```bash
+   git clone https://github.com/chindaliayash77/chatbot_with_ml.git
    pip install -r requirements.txt
    streamlit run app.py
+
+## Project images
+1. I have added the ui images in project_images/ of machine learning and chatbot working .
