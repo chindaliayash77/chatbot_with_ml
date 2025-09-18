@@ -22,3 +22,4 @@ A Streamlit web application that combines machine learning classification with a
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
+   streamlit run app.py
